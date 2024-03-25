@@ -1,18 +1,20 @@
-# Sistema de Empréstimo de Livros
+# Sistema de EmprÃ©stimo de Livros
 
-Este repositório contém um sistema de empréstimo de livros desenvolvido em ASP.NET MVC, utilizando SQL Server como banco de dados e hospedagem no Microsoft Azure. O sistema oferece funcionalidades de CRUD para gerenciar empréstimos de livros, permitindo o cadastro, edição e exclusão de informações como nome do recebedor, fornecedor e título do livro.
+Este repositÃ³rio contÃ©m um sistema de emprÃ©stimo de livros desenvolvido em ASP.NET MVC, utilizando SQL Server como banco de dados e hospedagem no Microsoft Azure. O sistema oferece funcionalidades de CRUD para gerenciar emprÃ©stimos de livros, permitindo o cadastro, ediÃ§Ã£o e exclusÃ£o de informaÃ§Ãµes como nome do recebedor, fornecedor e tÃ­tulo do livro.
 
-## Tecnologias Utilizadas
+ğŸ“š **Acesse o sistema [aqui](https://biblio-tech.azurewebsites.net/).**
+
+## ğŸ’» Tecnologias Utilizadas
 
 - ASP.NET MVC
 - SQL Server
 - Microsoft Azure (para hospedagem)
 
-## Funcionalidades
+## âœ¨ Funcionalidades
 
 O sistema oferece as seguintes funcionalidades:
 
-- Cadastro de empréstimos de livros.
-- Edição de informações dos empréstimos (nome do recebedor, fornecedor, título do livro, etc.).
-- Exclusão de empréstimos registrados.
-- Visualização de todos os empréstimos cadastrados.
+- Cadastro de emprÃ©stimos de livros ğŸ“
+- EdiÃ§Ã£o de informaÃ§Ãµes dos emprÃ©stimos (nome do recebedor, fornecedor, tÃ­tulo do livro, etc.) âœï¸
+- ExclusÃ£o de emprÃ©stimos registrados âŒ
+- VisualizaÃ§Ã£o de todos os emprÃ©stimos cadastrados ğŸ‘€
