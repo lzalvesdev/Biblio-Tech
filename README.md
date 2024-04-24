@@ -2,7 +2,7 @@
 
 Este repositório contém um sistema de empréstimo de livros desenvolvido em ASP.NET MVC, utilizando SQL Server como banco de dados e hospedagem no Microsoft Azure. O sistema oferece funcionalidades de CRUD para gerenciar empréstimos de livros, permitindo o cadastro, edição e exclusão de informações como nome do recebedor, fornecedor e título do livro.
 
-📚 **No momento desativo devivo a cota do azure**
+📚 **No momento desativado devivo a cota do azure**
 
 ## 💻 Tecnologias Utilizadas
 
